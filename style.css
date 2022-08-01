@@ -10,6 +10,8 @@ font-family: 'Roboto', sans-serif;
   display: grid;
   grid-template-columns: 250px 1fr;
   grid-template-rows: 1fr 5fr;
+  background-color: rgb(25, 146, 212);
+
 }
 
 .header-container {
@@ -82,7 +84,7 @@ font-family: 'Roboto', sans-serif;
   background-color: rgb(25, 146, 212);
   grid-column: 1 / 2;
   grid-row: 1 / 3;
-  height: 100vh;
+  height: 100%;
   color: white;
   display: grid;
   grid-template-rows: 60px 250px 125px auto;
